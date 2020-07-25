@@ -7,15 +7,13 @@
 - 使用者可以利用名稱搜尋餐廳
 
 #Environment SetUp
-1.Node.js v10.21.0
-2.Express v4.17.1
-3.Express-Handlebars v5.1.0
+1. Node.js v10.21.0
+2. Express v4.17.1
+3. Express-Handlebars v5.1.0
 
 #Installing
 1.下載專案到本機電腦
-git clone
 2.進入專案資料夾
-cd restaurant_list
 3.安裝 npm 套件
 4.安裝 nodemon 套件
 5.啟動伺服器，執行專案
