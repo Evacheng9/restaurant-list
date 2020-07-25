@@ -7,7 +7,7 @@
 - 使用者可以利用名稱搜尋餐廳
 
 # Environment SetUp
-1. Node.js v10.21.0
+1. Node.js v10.15.0
 2. Express v4.17.1
 3. Express-Handlebars v5.1.0
 
